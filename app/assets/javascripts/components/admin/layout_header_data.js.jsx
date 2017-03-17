@@ -36,7 +36,7 @@ var TaskList = React.createClass({
 
     event.preventDefault();
     $("#contentPane").empty();
-    $("#contentPane").append({<NotificationList>});
+    
 
   },
   render: function(){
